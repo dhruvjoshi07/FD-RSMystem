@@ -56,6 +56,10 @@ Block transaction
 
 Admin dashboard shows alerts and reports
 
+Real-Time / Streaming 
+Supports near real-time fraud detection using batch + streaming simulation
+Designed to integrate with Kafka / streaming pipelines (future scope)
+
 🧠 How Fraud Detection Works
 1️⃣ Data Collection
 
