@@ -1,6 +1,8 @@
 🛡️ Fraud Detection and Risk Management System
 📌 Overview
 
+Supports real-time streaming (simulated) using batch processing
+
 The Fraud Detection and Risk Management System is designed to identify, prevent, and manage fraudulent activities in real-time transactions.
 It analyzes user behavior, transaction patterns, and risk factors to detect suspicious activities and reduce financial losses.
 
