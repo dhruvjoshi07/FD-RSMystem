@@ -16,7 +16,7 @@ Minimize financial risk and losses
 
 Assign risk scores to users and transactions
 
-Block or flag suspicious activities
+Block or flag suspicious activities...
 
 Improve security and trust in digital transactions
 
