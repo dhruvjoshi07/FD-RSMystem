@@ -228,11 +228,9 @@ Credit/Debit card transactions
 
 E-commerce platforms
 
-Banking systems
+Banking systems...
 
 Insurance fraud detection
-
 ✅ Conclusion
-
 The Fraud Detection and Risk Management System helps organizations detect fraud early, reduce risks, and ensure secure transactions.
 By combining rule-based logic and machine learning, the system adapts to evolving fraud patterns and provides reliable protection.
